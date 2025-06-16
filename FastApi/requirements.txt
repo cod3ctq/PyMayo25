@@ -1,0 +1,5 @@
+fastapi~=0.115.12
+SQLAlchemy~=2.0.41
+pydantic~=2.11.6
+oracledb~=2.1.1
+uvicorn[standard]~=0.29.0
